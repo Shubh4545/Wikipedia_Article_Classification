@@ -6,7 +6,7 @@ Probleme statement given [here](https://github.com/Shubh4545/Wikipedia_Article_C
 ## Goal 
 The end goal of this project is to develop a binary classification model that can classify Wikipedia articles as either featured or non-featured. 
 
-##Installation
+## Installation
 We are using Google Colab as IDE beacuse it is very powerfull tool.
 
 we have used libraries like pandas,numpy,seaborn,matplotlib,sklearn,imblearn etc
