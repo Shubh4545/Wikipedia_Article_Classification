@@ -21,7 +21,7 @@ As we are saving data from API it will take time or get timeout due to responce 
 ## Clean Data
 Dataset looks like before
 
-![dataset}(https://github.com/Shubh4545/Wikipedia_Article_Classification/blob/200ccdb7ded80c7473382571f2fb634be7a18eca/Resource/dataset%20before%20cleaning.png)
+![dataset](https://github.com/Shubh4545/Wikipedia_Article_Classification/blob/200ccdb7ded80c7473382571f2fb634be7a18eca/Resource/dataset%20before%20cleaning.png)
 
 we performed  operations like remove duplicates,removing nan ,checking missing values and changing data type
 
