@@ -42,7 +42,7 @@ Results of three modes are
 
 ## Post Evluation
 
-Feature imporatnce of feature is 
+Feature imporatnce of feature is :
 
 ![imp](https://github.com/Shubh4545/Wikipedia_Article_Classification/blob/ffd4a0903f7974294aa75823898576c35aafe766/Resource/feature%20imp.png)
 
